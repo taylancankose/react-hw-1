@@ -10,6 +10,6 @@ const getUserId = async(user_id) => {
 
     };
 
-export default getUserId;
+export default getUserId
 
 
